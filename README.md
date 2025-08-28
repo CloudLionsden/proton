@@ -1,9 +1,8 @@
 # Prerequisites
-####
-- JDK 21
+######
+- JDK 25
 - Maven 3.9 
 - MySQL 8
-
 # Technologies 
 - JAKARTA
 - Spring MVC
